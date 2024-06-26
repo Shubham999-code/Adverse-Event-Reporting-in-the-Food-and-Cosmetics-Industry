@@ -2,6 +2,8 @@
 # Overview
 This Power BI dashboard analyzes adverse event reports from the FDA's CAERS dataset, highlighting patterns and trends across foods, dietary supplements, and cosmetics. It correlates these reports with product roles, industry categories, and demographic data.
 
+# Key Features of the Dashboard
+
 Adverse Event Trends: Monitors the frequency of adverse events over time, segmented by gender and product role, providing insights into the demographics and types of products involved.
 
 Predictive Insights: Features a forecasting model that predicts future adverse events, offering a proactive view of potential safety issues.
