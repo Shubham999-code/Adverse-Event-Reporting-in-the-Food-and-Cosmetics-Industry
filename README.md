@@ -1,4 +1,8 @@
 # Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry
+
+![image](https://github.com/Shubham999-code/Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry/assets/120647088/62ee8926-d2f5-4182-8064-dd06695194f3)
+
+
 # Overview
 This Power BI dashboard analyzes adverse event reports from the FDA's CAERS dataset, highlighting patterns and trends across foods, dietary supplements, and cosmetics. It correlates these reports with product roles, industry categories, and demographic data.
 
