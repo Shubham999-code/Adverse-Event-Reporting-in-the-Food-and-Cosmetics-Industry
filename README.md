@@ -41,6 +41,7 @@ Product Safety Monitoring: Offers valuable information for manufacturers and reg
 Public Health Choices: Assists public health officials in making informed decisions to prevent and manage adverse health events.
 
 # Conclusion
+![Screenshot (76)](https://github.com/Shubham999-code/Adverse-Event-Reporting-in-the-Food-and-Cosmetics-Industry/assets/120647088/33eec3ce-89cc-45a0-8dc1-0d22b9a1d1c0)
 
 
 
