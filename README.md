@@ -14,6 +14,40 @@ Demographic Breakdown: Analyzes adverse events by age group and gender, identify
 
 Industry-Specific Analysis: Highlights the distribution of adverse events among various industry categories, pinpointing sectors with elevated reports of adverse incidents.
 
+# Key Insights Of Worksheets
+
+Gender-Specific Reporting: Shows important trends in how different genders report adverse events, suggesting possible differences in how often each gender is affected or how often they report these events.
+
+Product Role in Adverse Events: Distinguishes between suspect and concomitant products, offering essential insights for safety assessments.
+
+Symptom Severity Index: A chart to prioritize responses by analyzing the severity and occurrence rates of reported symptoms.
+
+Industry Distribution : the distribution of events across various industries, showing a significant concentration in the vitamins, minerals, proteins, and diet industry.
+
+# Technical Overview
+
+Data Transformation and Modeling: We used advanced DAX functions and Power BI's data modeling features to efficiently handle and analyze the large dataset.
+
+Interactive Visuals: We used customizable filters and slicers to explore the data dynamically, such as selecting product roles, age groups, and industry names.
+
+Predictive Analytics: Using Power BI to analyze past data and make forecasts about future trends.
+
+# Business Effectiveness
+
+Regulatory Compliance: Helps pinpoint products with many adverse event reports, aiding in regulatory compliance and safety improvements.
+
+Product Safety Monitoring: Offers valuable information for manufacturers and regulators to improve product safety and monitoring.
+
+Public Health Choices: Assists public health officials in making informed decisions to prevent and manage adverse health events.
+
+# Conclusion
+
+
+
+
+
+
+
 
 
 
